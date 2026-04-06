@@ -1,14 +1,23 @@
-/* Global Styles */
 body {
-    background-color: lightgray;
+    background-color: #f0f0f0;
     font-family: Arial, sans-serif;
     text-align: center;
 }
 
-/* Center main content */
+header {
+    margin-bottom: 20px;
+}
+
 main {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 60vh;
+    height: 50vh;
 }
+
+footer {
+    margin-top: 20px;
+}
+Write to Joexs Pondoyo
+
+
